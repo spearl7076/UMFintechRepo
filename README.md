@@ -1,5 +1,7 @@
 # UMFintechRepo
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text](https://imageio.forbes.com/specials-images/dam/imageserve/1128466997/960x0.jpg?fit=bounds&format=jpg&width=960)
 ## Description
 ### Table of Contents
 [Google Homepage](https://www.google.com)
